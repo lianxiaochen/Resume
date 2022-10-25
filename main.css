@@ -63,7 +63,7 @@ li{
 #wrapper--hero{
     display: flex;
     align-items: center;
-    gap: 4em;
+    gap: 7em;
 }
 
 #bio, a{
@@ -77,8 +77,8 @@ li{
 }
 
 #profile-pic{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: 50%;
 }
