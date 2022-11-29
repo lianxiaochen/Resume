@@ -34,7 +34,7 @@ body{
     background-color: var(--mainBgColor);            
 }
 
-p, span, li{
+p, span, li, label{
     color: var(--secondaryTextColor);
     font-size: 1em;
 }
